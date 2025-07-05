@@ -1,5 +1,20 @@
+#fname{
+    background-color: rgb(16, 5, 13);
+}
+#lname{
+    background-color: rgb(205, 129, 29);
+}
+#phno{
+    background-color: rgb(69, 176, 66);
+}
+#Address{
+    background-color: rgb(127, 6, 221);
+}
+#password{
+    background-color: rgb(0, 0, 0);
+}
 .ClassForm{
+    font-family: 'Times New Roman', Times, serif;
     font-style:italic;
-    font-family:'Times new roman';
-    background-color: rgb(238, 19, 154);
+    background-color: rgb(80, 50, 51);
 }
